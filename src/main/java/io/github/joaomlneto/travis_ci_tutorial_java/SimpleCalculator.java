@@ -6,6 +6,7 @@ public class SimpleCalculator {
 	}
 	public int sub(int a, int b) {
 		return a - b;
+		// This is a new line for a test change
 	}
 	public int mul(int a, int b) {
 		return a * b;
